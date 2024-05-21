@@ -1,12 +1,11 @@
 ---
-title: 8bithemant
-date: '2020-14-05'
-spoiler: Dynamic Realtime Readme Template
-categories: ["dynamic-realtime", "all-profile"]
-githubUsername: '8bithemant'
+title: SirScripter
+date: '21/05/24'
+spoiler: My Profile
+githubUsername: 'SirScripter'
 ---
 
-### Hi there, I'm [Hemant!](https://hemant.codes) 👋.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
+### Hi there, I'm [Zakariya](https://zakster.co.uk) 👋.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
 
 
 <br/>
